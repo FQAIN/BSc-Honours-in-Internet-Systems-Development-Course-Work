@@ -1,7 +1,7 @@
 # BSc-Honours-in-Internet-Systems-Development-Course-Work
 This folder consists of my four years work while studying in TUS in BSc (Honours) in Internet Systems Development. This work **SHOULD NOT** be used for **EDECUATIONAL PURPOSES** 
 
-**## Year 1 Modules**
+## Year 1 Modules
 ### Semester 1
 * Database Essentials
 * E-Buisness
@@ -18,7 +18,7 @@ This folder consists of my four years work while studying in TUS in BSc (Honours
 * Structured Query Language Essentials
 
 
-**## Year 2 Modules**
+## Year 2 Modules
 ### Semester 3
 * Databases for Project
 * Introduction to Object Oriented Programming
@@ -36,7 +36,7 @@ This folder consists of my four years work while studying in TUS in BSc (Honours
 * Web Project
 
 
-**## Year 3 Modules**
+## Year 3 Modules
 ### Semester 5
 * Advanced Web Techniques
 * Concurrent Programming
@@ -48,7 +48,7 @@ This folder consists of my four years work while studying in TUS in BSc (Honours
 * Work Placement
 
 
-**## Year 4 Modules**
+## Year 4 Modules
 ### Semester 7
 * Data Visualization
 * Final Year Project
